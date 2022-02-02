@@ -1,8 +1,7 @@
 ![Blue and Cream Decorative Monoline Love Songs Favorite Mixtape Cover](https://user-images.githubusercontent.com/93559326/151923903-e338e136-5663-4878-9169-3c36fa6230e8.jpg)
 
 
-It is not super hard... but for now you do need the hashes. (zip2john coming soon)
-
+# It is not super hard... but for now you do need the hashes. (zip2john coming soon)
 If you have hashes you can upload them below and then interact within the shell per usual. You can also upload your own wordlists!
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -11,7 +10,7 @@ If you have something like a password locked .zip you can also import them and b
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Coming Soon:
+# Coming Soon:
 - Expanded wordlists
 
 - zip2john
@@ -20,7 +19,7 @@ Coming Soon:
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Instructions:
+# Instructions:
 
 - Press the play button in the top left of the first cell below this. Upload your hashes or zip and wordlists that way.
 
