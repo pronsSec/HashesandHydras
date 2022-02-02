@@ -14,17 +14,18 @@ Coming Soon:
 
 -zip2john
 
--Export with formatting
+- fcrackzip (maybe)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Instructions:
-Press the play button in the top left of the first cell below this. Upload your hashes or zip and wordlists that way.
 
-Move to the next cell down. Choose your setup with the radio checkboxes and press play. This will take a bit of time, roughly 5 mins.
+-Press the play button in the top left of the first cell below this. Upload your hashes or zip and wordlists that way.
 
-Press play beside the cell that pops your shell.
+-Move to the next cell down. Choose your setup with the radio checkboxes and press play. This will take a bit of time, roughly 5 mins.
 
-Hangout and chillaxinate
+-Press play beside the cell that pops your shell.
 
-You are responsible for your own actions, this is a tool meant for ethical pentesting yo. 
+-Hangout and chillaxinate
+
+-You are responsible for your own actions, this is a tool meant for ethical pentesting yo. 
