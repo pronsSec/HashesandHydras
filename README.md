@@ -1,7 +1,9 @@
 ![Blue and Cream Decorative Monoline Love Songs Favorite Mixtape Cover](https://user-images.githubusercontent.com/93559326/151923903-e338e136-5663-4878-9169-3c36fa6230e8.jpg)
 
 
-It is not super hard... but for now you do need the hashes. If you have hashes you can upload them below and then interact within the shell per usual. You can also upload your own wordlists!
+It is not super hard... but for now you do need the hashes. (zip2john coming soon)
+
+If you have hashes you can upload them below and then interact within the shell per usual. You can also upload your own wordlists!
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
