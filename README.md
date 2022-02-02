@@ -10,9 +10,9 @@ If you have something like a password locked .zip you can also import them and b
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Coming Soon:
--Expanded wordlists
+- Expanded wordlists
 
--zip2john
+- zip2john
 
 - fcrackzip (maybe)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -20,12 +20,12 @@ Coming Soon:
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Instructions:
 
--Press the play button in the top left of the first cell below this. Upload your hashes or zip and wordlists that way.
+- Press the play button in the top left of the first cell below this. Upload your hashes or zip and wordlists that way.
 
--Move to the next cell down. Choose your setup with the radio checkboxes and press play. This will take a bit of time, roughly 5 mins.
+- Move to the next cell down. Choose your setup with the radio checkboxes and press play. This will take a bit of time, roughly 5 mins.
 
--Press play beside the cell that pops your shell.
+- Press play beside the cell that pops your shell.
 
--Hangout and chillaxinate
+- Hangout and chillaxinate
 
--You are responsible for your own actions, this is a tool meant for ethical pentesting yo. 
+- You are responsible for your own actions, this is a tool meant for ethical pentesting yo. 
