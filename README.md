@@ -2,7 +2,8 @@
 
 
 # It is not super hard... but for now you do need the hashes. (zip2john coming soon)
-If you have hashes you can upload them below and then interact within the shell per usual. You can also upload your own wordlists!
+
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
